@@ -14,7 +14,7 @@ A class mainly contains methods, attributes, instances and a prefix
 * one such method is _init_ method which is also considered as a constructor of a class
 * attributes are declared inside a class (more in detail in file classes.py)
 * instances are basically the names which we use to call a particular class.
-* prefix basically works with _init_ method(defined as self) 
+* prefix basically works with _init_ method(define as self) 
 
 # How to define a class: 
 (just write class put a space and mention name you like to assign as a class, but make sure the first letter of your class is capitalised.
