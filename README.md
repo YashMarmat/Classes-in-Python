@@ -1,6 +1,6 @@
 # Classes-in-Python
 
-# classes
+# Classes
 
 According to Google A class is a code template for creating objects.
 Objects have member variables and have behaviour associated with them.
@@ -68,7 +68,7 @@ the method call will automatically pass the self argument. Every method call ass
 automatically passes self, which is a reference to the instance itself; it gives the individual instance access
 to the attributes and methods in the class.
 
-# more in Dictionary.py file :)
+* more in Classes.py file :)
 
 IDE Used: Jupyter Notebook
 Book Reference: Python Crash Course (by Eric Matthes)
