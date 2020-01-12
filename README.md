@@ -79,6 +79,7 @@ to the attributes and methods in the class.
 
 * more in Classes.py file  :)
 
-*IDE Used: Jupyter Notebook
-*Book Reference: Python Crash Course (by Eric Matthes)
+* IDE Used: Jupyter Notebook
+
+* Book Reference: Python Crash Course (by Eric Matthes)
 
