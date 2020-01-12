@@ -77,8 +77,8 @@ the method call will automatically pass the self argument. Every method call ass
 automatically passes self, which is a reference to the instance itself; it gives the individual instance access
 to the attributes and methods in the class.
 
-* more in Classes.py file :)
+* more in Classes.py file  :)
 
-IDE Used: Jupyter Notebook
-Book Reference: Python Crash Course (by Eric Matthes)
+*IDE Used: Jupyter Notebook
+*Book Reference: Python Crash Course (by Eric Matthes)
 
