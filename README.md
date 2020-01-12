@@ -37,25 +37,32 @@ A class mainly contains methods, attributes, instances and a prefix
      
 
 At 1, i defined a class and named it as Introduction (keep first letter in capitals).
+
 At 2, i defined a method by def and the method name is __init__(), having 3 parameters self, age, name
+
 At 3, i mentioned attributes by using self.(anything you like to print) = the same parameter,
       in this case our attributes are name and age
+
 At 4, i defined another method describe(), which will take care in what manner the output will be printed.
+
 At 5, i gave the print command which basically gives us the output when describe method is called via instance.
+
 At 6, i used str() function (use to define strings) with age.self, as python will only take strings not integers.
+
 At 7, i mentioned an instance 'intro' which is use to call the class Introduction,
       also the values of parameters (name, age) are defined here (that is 'yash', 23)
+
 At 8, i used the instance (intro) and method (describe) together in order to get the output that particulat method only
 
-Note: You can define as many as methods you like and to get all of them printed you need to mention the method name 
-      with the instance name. As shown above (8).
+* Note: You can define as many as methods you like and to get all of them printed you need to mention the method name with the instance name. As shown above (8).
 
 
 
 
 
 
-# Brief Explanation:
+* Brief Explanation:
+
 The __init__() method at is a special method that Python runs automatically whenever 
 we create a new instance based on the Dog class.
 This method has two leading underscores and two trail-ing underscores, 
