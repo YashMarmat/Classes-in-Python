@@ -77,7 +77,7 @@ the method call will automatically pass the self argument. Every method call ass
 automatically passes self, which is a reference to the instance itself; it gives the individual instance access
 to the attributes and methods in the class.
 
-* more in classes.ipynb file  :)
+* more on classes in classes.ipynb file  :)
 
 * IDE Used: Jupyter Notebook
 
