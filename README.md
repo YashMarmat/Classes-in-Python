@@ -21,8 +21,9 @@ A class mainly contains methods, attributes, instances and a prefix
 
 # format:
 
-class Introduction():   (1)  
-    
+
+    class Introduction():                         (1)  
+
     def __init__(self,name,age):                  (2)
         self.name = name                          (3)
         self.age = age 
@@ -31,9 +32,8 @@ class Introduction():   (1)
         ' and i am ' + str(self.age)              (6)
         + ' years old')
         
-intro = Introduction('yash', 23)                  (7)
-
-intro.describe()                                  (8)     
+    intro = Introduction('yash', 23)               (7)
+    intro.describe()                               (8)     
      
 
 At 1, i defined a class and named it as Introduction (keep first letter in capitals).
