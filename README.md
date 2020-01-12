@@ -32,8 +32,8 @@ A class mainly contains methods, attributes, instances and a prefix
         ' and i am ' + str(self.age)              (6)
         + ' years old')
         
-    intro = Introduction('yash', 23)               (7)
-    intro.describe()                               (8)     
+    intro = Introduction('yash', 23)              (7)
+    intro.describe()                              (8)     
      
 
 At 1, i defined a class and named it as Introduction (keep first letter in capitals).
