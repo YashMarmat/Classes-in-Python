@@ -22,7 +22,7 @@ A class mainly contains methods, attributes, instances and a prefix
 # format:
 
 
-    class Introduction():                         (1)  
+    class Introduction:                           (1)  
 
     def __init__(self,name,age):                  (2)
         self.name = name                          (3)
